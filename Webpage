@@ -12,10 +12,10 @@ echo "Hello World" > index.html
     <h2><i> Why OHS</i> </h2>
     <p style="color:blue"> OHS is a high school located in <b><i> Oxford, Michigan.
       <br>
-      <img src="pictures/Oxford Wildcats.jpg" width="100" height="150"</b></i><br> 
+      <img src="Oxford Wildcats.jpg" width="100" height="150"</b></i><br> 
 Oxford has many different programs including:
 <ul>
-  <li> CTE</il> <img src="pictures/CTE.jpg" style="image-align:left" width="200" height="50">
+  <li> CTE</il> <img src="CTE.jpg" style="image-align:left" width="200" height="50">
 <li> OSEC </li>
 <li>IB course</li>
 <li> AP courses</li>
@@ -23,7 +23,7 @@ Oxford has many different programs including:
 <h3 style="color:dark blue"> Athletics </h3>
 <p style="color:blue"> Oxford High Schools has some of the best coaches in the state, including names like Zach Line, <sub> New Orleans Saints Fullback,</sub>Steve Laidlaw, and Adam Bican 
 <br>
-<img src="pictures/Zach Line.jpg" width="200" height="110"><br>
+<img src="Zach Line.jpg" width="200" height="110"><br>
 <h4 style="color:navy"> Favorite Classes at OHS <h4> 
 <ol> 
   <li> CTE Courses</li> 
