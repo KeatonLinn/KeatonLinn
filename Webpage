@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title><b>Oxford High School</b></title>
+  <img src="pictures/Oxford High School.jpg" width="400"
+</head>
+  <body>
+    <h1><b> Oxford High School</b></h1>
+    <hr>
+    <h2><i> Why OHS</i> </h2>
+    <p style="color:blue"> OHS is a high school located in <b><i> Oxford, Michigan.
+      <br>
+      <img src="pictures/Oxford Wildcats.jpg" width="100" height="150"</b></i><br> 
+Oxford has many different programs including:
+<ul>
+  <li> CTE</il> <img src="pictures/CTE.jpg" style="image-align:left" width="200" height="50">
+<li> OSEC </li>
+<li>IB course</li>
+<li> AP courses</li>
+</ul>
+<h3 style="color:dark blue"> Athletics </h3>
+<p style="color:blue"> Oxford High Schools has some of the best coaches in the state, including names like Zach Line, <sub> New Orleans Saints Fullback,</sub>Steve Laidlaw, and Adam Bican 
+<br>
+<img src="pictures/Zach Line.jpg" width="200" height="110"><br>
+<h4 style="color:navy"> Favorite Classes at OHS <h4> 
+<ol> 
+  <li> CTE Courses</li> 
+  <li> History</li>
+  <li> Gym </li>
+  <li> Math </li> 
+  <li> Science </li>
+  <li> Foreign Language </li>
+  <li> Art </li> 
+ <br> 
+ <br>
+ <h5> Win gift card</h5> 
+ <form action="results.html" method="GET"
+    <label type="text"">Username </label> 
+    <input placeholder="name" type="email">
+    <div>
+      <label type="number">Age</label>
+      <input type="number">
+    </div>
+    <label type="text">Password</label>
+      <input type="password"> 
+      <div>
+      <button>submit</button> 
+      </form>
+
